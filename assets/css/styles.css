@@ -864,6 +864,10 @@ input[type='checkbox'] {
   float: right;
 }
 
+.align-center {
+  text-align: center;
+  padding: 10px;
+}
 
 
 /*=============== FOOTER ===============*/
